@@ -1,6 +1,1 @@
-numpy
-matplotlib
-scipy
-scikit-image
-progressbar2
 openpiv
