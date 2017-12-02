@@ -1,11 +1,11 @@
-name: openpiv
+name: example-environment
 channels:
   - conda-forge
 dependencies:
   - python
   - numpy
-  - scipy
-  - scikit-images
-  - matplotlib
-  - progressbar2
-  - openpiv
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+- matplotlib
