@@ -1,0 +1,11 @@
+name: openpiv
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - scikit-images
+  - matplotlib
+  - progressbar2
+  - openpiv
