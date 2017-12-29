@@ -5,3 +5,5 @@ Example of particle image velocimetry in Python using OpenPIV
 
 Click on the button or this link to launch a fully operating OpenPIV-Python instance: 
 https://mybinder.org/v2/gh/alexlib/openpiv-python-example/master?filepath=index.ipynb
+
+![snapshot](openpiv-example-binder.png)
